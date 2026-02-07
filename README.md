@@ -1,5 +1,27 @@
-## Snake Contribution Animation
+# About Me
 
-![](https://raw.githubusercontent.com/yourusername/yourusername/snake/github-contribution-grid-snake.svg)  
+[Your brief introduction]
 
-This is a playful way to visualize contributions in a GitHub repository. The snake animation will follow the contributions pattern on the grid, making your activity look dynamic and engaging!
+# Current Focus
+
+[Your current focus or projects]
+
+# Connect With Me
+
+[Links to your social media or contact information]
+
+# Languages & Tools
+
+[The languages and tools you are proficient in]
+
+# GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavinipremarathna)
+
+# 🐍 Contribution Snake
+
+![Contribution Snake](https://github.com/Kavinipremarathna/Kavinipremarathna/raw/output/snake.svg)
+
+# Support My Work
+
+[Details on how people can support your work]
