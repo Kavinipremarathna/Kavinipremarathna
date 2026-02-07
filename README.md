@@ -1,30 +1,54 @@
-# About Me
+# Project Title
 
-This is the about me section.
+## Description
+This is a sample project to demonstrate how to update a README file on GitHub.
 
-# Current Focus
+## Features
+- Feature 1
+- Feature 2
+- Feature 3
 
-This section describes my current projects and interests.
+## Installation
+To install the project, run the following command:
 
-# Connect With Me
+```bash
+git clone https://github.com/Kavinipremarathna/Kavinipremarathna.git
+```
 
-Feel free to reach out through any of the social platforms.
+## Usage
+Provide instructions on how to use the project here.
 
-# Languages & Tools
+## Snake Animation
+### Overview
+In this section, we will explore a snake animation implemented in Python.
 
-- Python
-- JavaScript
-- React
-- Node.js
+### Code Example
+```python
+import pygame
 
-# GitHub Stats
+# Initialize Pygame
+pygame.init()
 
-![GitHub Stats](https://github.com/Kavinipremarathna/Kavinipremarathna/raw/output/snake.svg)
+# Define colors
+black = (0, 0, 0)
+white = (255, 255, 255)
 
-# Snake Contribution Animation
+# Create the screen
+screen = pygame.display.set_mode((600, 400))
+pygame.display.set_caption('Snake Animation')
 
-![Snake Animation](https://github.com/Kavinipremarathna/Kavinipremarathna/raw/output/snake.svg)
+# Main loop
+running = True
+while running:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+    screen.fill(black)
+    # Add snake drawing logic here
+    pygame.display.flip()
 
-# Support My Work
+pygame.quit()
+```
 
-If you like my projects, feel free to support my work!
+### Conclusion
+This concludes the snake animation example. Enjoy coding!
