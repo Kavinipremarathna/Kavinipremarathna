@@ -1,27 +1,30 @@
 # About Me
 
-[Your brief introduction]
+This is the about me section.
 
 # Current Focus
 
-[Your current focus or projects]
+This section describes my current projects and interests.
 
 # Connect With Me
 
-[Links to your social media or contact information]
+Feel free to reach out through any of the social platforms.
 
 # Languages & Tools
 
-[The languages and tools you are proficient in]
+- Python
+- JavaScript
+- React
+- Node.js
 
 # GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavinipremarathna)
+![GitHub Stats](https://github.com/Kavinipremarathna/Kavinipremarathna/raw/output/snake.svg)
 
-# 🐍 Contribution Snake
+# Snake Contribution Animation
 
-![Contribution Snake](https://github.com/Kavinipremarathna/Kavinipremarathna/raw/output/snake.svg)
+![Snake Animation](https://github.com/Kavinipremarathna/Kavinipremarathna/raw/output/snake.svg)
 
 # Support My Work
 
-[Details on how people can support your work]
+If you like my projects, feel free to support my work!
