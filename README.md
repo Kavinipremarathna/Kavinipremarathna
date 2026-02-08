@@ -74,8 +74,8 @@ I enjoy working across the stack — designing clean interfaces, developing reli
 ### 📊 GitHub Stats
 
 # <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavinipremarathna&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinipremarathna&layout=compact&hide_border=true" height="170"/>
+ # <img src="https://github-readme-stats.vercel.app/api?username=kavinipremarathna&show_icons=true&theme=default&hide_border=true" height="170"/>
+  # <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinipremarathna&layout=compact&hide_border=true" height="170"/>
 </p> 
 
 ---
