@@ -77,7 +77,7 @@ I enjoy working across the stack — designing clean interfaces, developing reli
   <img src="https://github-readme-stats.vercel.app/api?username=kavinipremarathna&show_icons=true&theme=default&hide_border=true" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavinipremarathna&layout=compact&hide_border=true" height="170"/>
 </p>
-![Snake animation](https://github.com/Kavinipremarathna/Kavinipremarathna/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 ---
 
 ### ☕ Support My Work
