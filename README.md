@@ -5,14 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=kavinipremarathna&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## 🏆 GitHub Achievements
+## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Kavinipremarathna&theme=onedark&no-frame=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
+![Kavini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavinipremarathna&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+username=Kavinipremarathna&show_icons=true&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kavinipremarathna&theme=tokyonight&hide_border=true" /> </p>
 
 ---
 
