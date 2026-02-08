@@ -5,8 +5,13 @@
   <img src="https://komarev.com/ghpvc/?username=kavinipremarathna&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+## 🏆 GitHub Achievements
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kavinipremarathna&theme=onedark&no-frame=true&row=1&column=7" />
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Kavinipremarathna&theme=onedark&no-frame=true&row=1&column=7"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
