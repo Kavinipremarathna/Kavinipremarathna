@@ -12,7 +12,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-     - name: generate-snake-game-from-github-contribution-grid
+     - name: Generate snake 
        uses: Platane/snk@v3.4.1
        with:
           github_user_name: kavinipremarathna
